@@ -32,7 +32,7 @@ description:"I worked as a web developer at Milad Web Solutions, focusing on ful
 },
 ]
 
-const skills=[{image:html,title:"Html"},{image:css,title:"Css"},{image:bootstrap,title:"Bootstrap"},{image:tailwind,title:"Tailwind"},{image:html,title:"HTML"}
+const skills=[{image:html,title:"Html"},{image:css,title:"Css"},{image:bootstrap,title:"Bootstrap"},{image:tailwind,title:"Tailwind"}
     ,{image:react,title:"React.JS"},{image:node,title:"Node.JS"},{image:express,title:"Express.JS"}
 ]
 
