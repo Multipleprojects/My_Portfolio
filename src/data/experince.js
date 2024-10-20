@@ -1,5 +1,5 @@
 import dione from '../assets/dione.png';
-import peek from '../assets/peek.png';
+import peek from '../assets/fiver.svg';
 import react from '../assets/react.webp';
 import node from '../assets/nodejs.webp';
 import express from '../assets/express.webp';
@@ -28,7 +28,7 @@ description:"I worked as a web developer at Dione, focusing on full-stack develo
     role:"Web Developer",
 Location:"Rawalpindi",
 Logo:peek,
-description:"As a freelancer, I collaborate with a friend who provides me MERN stack projects, which I successfully complete",
+description:"As a freelancer, I work closely with a friend who shares MERN stack projects with me. I handle the full development process, from front-end to back-end, using MongoDB, Express, React, and Node.js. This collaboration has helped me deliver quality projects while sharpening my technical skills",
 },
 ]
 
