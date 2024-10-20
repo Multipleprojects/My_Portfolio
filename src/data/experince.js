@@ -16,23 +16,24 @@ import tailwind from '../assets/tailwind.png'
 const experince=[
     {
     company:"Dione",
-    duration:"9 month",
-    role:"Web Developer (Mern Stack)",
+    duration:"7 month",
+    role:"Web Developer",
 Location:"Rawalpindi",
 Logo:dione,
 description:"I worked as a web developer at Dione, focusing on full-stack development. I developed the frontend using React.js and handled the backend with Node.js, building APIs and server-side logic. My role involved creating responsive interfaces and ensuring seamless integration between client and server",
 },
 {
-    company:"Milad Web Solutions",
-    duration:"Current (Remote)",
-    role:"Web Developer (Mern Stack)",
+    company:"Fiverr",
+    duration:"Current",
+    role:"Web Developer",
 Location:"Rawalpindi",
 Logo:peek,
-description:"I worked as a web developer at Milad Web Solutions, focusing on full-stack development. I developed the frontend using Next.js/React.js and handled the backend with Node.js, building and managing APIs. My role involved ensuring smooth integration between the client and server for dynamic web applications",
+description:"As a freelancer, I collaborate with a friend who provides me MERN stack projects, which I successfully complete",
 },
 ]
 
-const skills=[{image:html,title:"Html"},{image:css,title:"Css"},{image:bootstrap,title:"Bootstrap"},{image:tailwind,title:"Tailwind"},{image:html,title:"HTML"}
+const skills=[{image:html,title:"Html"},{image:css,title:"Css"},{image:bootstrap,title:"Bootstrap"},
+    {image:tailwind,title:"Tailwind"}
     ,{image:react,title:"React.JS"},{image:node,title:"Node.JS"},{image:express,title:"Express.JS"}
 ]
 

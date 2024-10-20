@@ -26,7 +26,7 @@ const Home = () => {
   }, []);
 
   return (
-    <div className='container mt-5'>
+    <div className='container mt-5' id='home'>
       <div className='row justify-content-center align-items-center  '>
         <div className='col-md-6 text-center fw-semibold fs-1  shadow-custom rounded-3 p-4 order-1 order-lg-0'
          data-aos="fade-up-right" data-aos-duration="1000">
