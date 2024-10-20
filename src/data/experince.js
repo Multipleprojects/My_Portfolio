@@ -32,13 +32,13 @@ description:"As a freelancer, I collaborate with a friend who provides me MERN s
 },
 ]
 
-<<<<<<< HEAD
-const skills=[{image:html,title:"Html"},{image:css,title:"Css"},{image:bootstrap,title:"Bootstrap"},
+const skills=[{image:html,title:"Html"},
+    {image:css,title:"Css"},
+    {image:bootstrap,title:"Bootstrap"},
     {image:tailwind,title:"Tailwind"}
-=======
-const skills=[{image:html,title:"Html"},{image:css,title:"Css"},{image:bootstrap,title:"Bootstrap"},{image:tailwind,title:"Tailwind"}
->>>>>>> origin/main
-    ,{image:react,title:"React.JS"},{image:node,title:"Node.JS"},{image:express,title:"Express.JS"}
+    ,{image:react,title:"React.JS"},
+    {image:node,title:"Node.JS"},
+    {image:express,title:"Express.JS"}
 ]
 
 const projects=[
