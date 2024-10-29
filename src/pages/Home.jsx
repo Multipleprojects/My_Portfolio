@@ -11,7 +11,7 @@ const Home = () => {
     const options = {
       strings: [
         "Welcome to my profile",
-        "My name is Muhammad Mudassir",
+        "My name is Muhammad Bhatti",
         "I am a web developer (MERN Stack)",
       ],
       typeSpeed: 50,

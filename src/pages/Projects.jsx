@@ -16,9 +16,11 @@ const Projects = () => {
               <div className="card-body d-flex flex-column">
                 <h5 className="card-title">{project.title}</h5>
                 <p className="card-text">{project.description}</p>
-                <a href={project.link} className="btn btn-warning mt-auto" target="_blank" rel="noopener noreferrer">
-                  Go to Website
+               
+<a href={project.link} className="btn btn-warning mt-auto" target="_blank" rel="noopener noreferrer">
+{project.title==="My Projects Code" ? "Go to Source Code" :"Go to Website"}
                 </a>
+
               </div>
             </div>
           </div>
