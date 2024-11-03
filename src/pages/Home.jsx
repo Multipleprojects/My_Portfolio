@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import profile from '../assets/profile.jpg';
+import profile from '../assets/profile.webp';
 import resume from '../pdf/mern.pdf';
 import './CSS.css';
 import Typed from 'typed.js';
