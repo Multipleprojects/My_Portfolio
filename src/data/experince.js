@@ -1,5 +1,5 @@
 import dione from '../assets/dione.png';
-import peek from '../assets/fiver.svg';
+import peek from '../assets/devenue.webp';
 import react from '../assets/react.webp';
 import node from '../assets/nodejs.png';
 import express from '../assets/express.webp';
@@ -17,23 +17,24 @@ import gym from '../assets/gym.jpeg';
 import tailwind from '../assets/tailwind.png'
 import blog from '../assets/blog.jpg'
 import github from '../assets/github.jpg'
-
+import devenu from '../assets/devenu.png'
 const experince=[
+  
+{
+    company:"Devenue",
+    duration:"9 months",
+    role:"Mern Stack Developer",
+Location:"Islamabad",
+Logo:peek,
+description:"Developed responsive web applications for Tripwalt, Devenue, and a curators website using React.js (frontend) and Node.js (backend). Built and optimized RESTful APIs for seamless client-server integration. Focused on UI/UX improvements, performance optimization, and scalable solutions.",
+},
     {
     company:"Dione",
-    duration:"6 months",
-    role:"Web Developer",
+    duration:"3 months",
+    role:"Web Development Intern",
 Location:"Rawalpindi",
 Logo:dione,
-description:"I worked as a web developer at Dione, focusing on full-stack development. I developed the frontend using React.js and handled the backend with Node.js, building APIs and server-side logic. My role involved creating responsive interfaces and ensuring seamless integration between client and server",
-},
-{
-    company:"Fiverr",
-    duration:"Current",
-    role:"Web Developer",
-Location:"Online",
-Logo:peek,
-description:"As a freelancer, I work closely with a friend who shares MERN stack projects with me. I handle the full development process, from front-end to back-end, using MongoDB, Express, React,Next and Node.js. This collaboration has helped me deliver quality projects while sharpening my technical skills",
+description:"Developed responsive web applications using React.js for the frontend and Node.js for the backend. Built and optimized RESTful APIs to ensure seamless client-server integration. Focused on UI/UX improvements, performance optimization, and scalable solutions",
 },
 ]
 
@@ -53,6 +54,18 @@ const skills=
 ]
 
 const projects=[
+    {
+        image:tourism,
+        link:'https://www.tripwaly.com/',
+        title:"Tripwaly (Tourism  Website)",
+        description:"This is a tourism website that provides information about different tourist destinations The website is built using React with Nodejs." 
+    },
+    {
+        image:devenu,
+        link:'https://devenue.io/',
+        title:"Company Portfolio",
+        description:"This is a tourism website that provides information about different tourist destinations The website is built using React with Nodejs." 
+    },
     {
 
         image:tutor,
@@ -85,12 +98,7 @@ const projects=[
     title:"Islamichub Website",
     description:"A website for Islamic Hub, a religious website. The website is built using React with Nodejs."
 },
-{
-    image:tourism,
-    link:'https://www.tripwaly.com/',
-    title:"Tourism  Website",
-    description:"This is a tourism website that provides information about different tourist destinations The website is built using React with Nodejs." 
-},
+
 {
     image:blog,
     link:'https://blog-alpha-drab-86.vercel.app/',

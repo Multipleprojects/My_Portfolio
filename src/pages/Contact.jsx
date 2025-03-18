@@ -11,7 +11,7 @@ const Contact = () => {
       >
         <div className="row justify-content-center">
           <div className="col-auto">
-            <a href='https://www.linkedin.com/in/-mern-stack-developer-101344292/'>
+            <a href='https://www.linkedin.com/in/muhammad-mudassir-5ab23834b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>
             <div  className="rounded-circle  border border-warning d-flex justify-content-center align-items-center" style={{ width: '80px', height: '80px' }}>
               <FaLinkedin className="text-warning" style={{ fontSize: '40px' }} />
             </div>
